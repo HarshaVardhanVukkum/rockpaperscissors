@@ -21,3 +21,9 @@ A simple Rock Paper Scissors game built using Python. Play against the computer 
 ```bash
 git clone https://github.com/HarshaVardhanVukkum/rockpaperscissors.git
 cd rockpaperscissors
+
+python rockpaperscissors.py
+
+Enter your choice (rock, paper, scissors): rock
+Computer chose: scissors
+You win!
